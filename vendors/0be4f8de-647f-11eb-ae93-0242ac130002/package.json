@@ -1,0 +1,14 @@
+{
+  "name": "0be4f8de-647f-11eb-ae93-0242ac130002",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc index.ts --outDir dist"
+  },
+  "dependencies": {
+    "utils": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
