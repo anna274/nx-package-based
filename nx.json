@@ -9,5 +9,6 @@
         "accessToken": "YjY2OGQzMzAtZWI0My00MGQ0LWIyNmEtZTliODMwYjMyOTRifHJlYWQtd3JpdGU="
       }
     }
-  }
+  },
+  "defaultProject": "payments-frontend"
 }
